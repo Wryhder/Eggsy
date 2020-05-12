@@ -2,4 +2,4 @@
 
 A simple and uniform programming language written in JavaScript
 
-> Eggsy is based on the Egg programming language project from Eloquent JavaScript, 3rd Edition
+> Eggsy is based on the Egg programming language project from [Eloquent JavaScript](https://github.com/marijnh/Eloquent-JavaScript), 3rd Edition
