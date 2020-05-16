@@ -71,3 +71,10 @@ print("There's a comment above me.") # Another comment here
 ## Usage
 
 Call the `run` function in `main.js` on a valid piece of code to evaluate it.
+
+```
+run(`
+  do( print(element(array(0, 1, 2, 3, 4), 2)),
+    print("Done."))
+`);
+```
