@@ -68,6 +68,37 @@ As you must have guessed from the code examples above, comments are preceded wit
 print("There's a comment above me.") # Another comment here 
 ```
 
+### Operators
+
+```
++(4, 1)   # 5
+
+-(6, 2)   # 4
+
+*(3, 3)   # 9
+
+/(6, 2)   # 3
+
+==(7, 7)   # true
+
+<(7, 5)   # true
+
+>(5, 7)   # true
+```
+
+### Arrays
+
+```
+# create a new array
+array(0, 1, 2, 3, 4)
+
+# get the length of an array
+length(array(0, 1, 2, 3, 4))
+
+# return the nth element of an array
+element(array(0, 1, 2, 3, 4), n)
+```
+
 ## Usage
 
 Call the `run` function in `main.js` on a valid piece of code to evaluate it.
