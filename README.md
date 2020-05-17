@@ -1,6 +1,6 @@
 # Eggsy
 
-A simple and uniform programming language written in JavaScript
+A simple and uniform toy programming language written in JavaScript that I've been working on to help me understand how parsers work.
 
 > Eggsy is based on the Egg programming language project from [Eloquent JavaScript](https://github.com/marijnh/Eloquent-JavaScript), 3rd Edition
 
